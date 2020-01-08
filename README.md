@@ -1,3 +1,6 @@
+![600](https://user-images.githubusercontent.com/55124264/71940638-56703280-31fa-11ea-9908-c7a2812cf135.jpg)
+
+
 # CprogrammingStudy
 
 C 언어 스터디 <p>
