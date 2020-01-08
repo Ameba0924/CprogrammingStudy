@@ -10,3 +10,6 @@ C 언어 스터디 <p>
 기본 문법 이해 및 심화 코딩학습 
 
 Visual Studio 사용 
+
+![C언어 레포트1_10](https://user-images.githubusercontent.com/55124264/71948090-42d0c600-3212-11ea-84fb-701e2649dd20.png)
+![이현호 보이드포인터관련 레포트_3](https://user-images.githubusercontent.com/55124264/71948105-482e1080-3212-11ea-8290-060048bda96f.png)
